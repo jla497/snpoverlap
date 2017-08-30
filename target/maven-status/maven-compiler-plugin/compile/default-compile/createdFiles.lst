@@ -1,0 +1,4 @@
+com\mkyong\AppConfig.class
+com\mkyong\service\ProcessBed.class
+com\mkyong\service\ProcessBed$1.class
+com\mkyong\SpringBootConsoleApplication.class
